@@ -1,0 +1,7 @@
+D:\tryagain\tuhoclaptrinh1\tuhoclaptrinh1\bin\Debug\tuhoclaptrinh1.exe.config
+D:\tryagain\tuhoclaptrinh1\tuhoclaptrinh1\bin\Debug\tuhoclaptrinh1.exe
+D:\tryagain\tuhoclaptrinh1\tuhoclaptrinh1\bin\Debug\tuhoclaptrinh1.pdb
+D:\tryagain\tuhoclaptrinh1\tuhoclaptrinh1\obj\Debug\tuhoclaptrinh1.csproj.AssemblyReference.cache
+D:\tryagain\tuhoclaptrinh1\tuhoclaptrinh1\obj\Debug\tuhoclaptrinh1.csproj.CoreCompileInputs.cache
+D:\tryagain\tuhoclaptrinh1\tuhoclaptrinh1\obj\Debug\tuhoclaptrinh1.exe
+D:\tryagain\tuhoclaptrinh1\tuhoclaptrinh1\obj\Debug\tuhoclaptrinh1.pdb
